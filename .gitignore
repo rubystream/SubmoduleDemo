@@ -1,3 +1,5 @@
+# Submodules
+vendor/
 # Logs
 logs
 *.log

@@ -1,0 +1,3 @@
+[submodule "vendor/SubmoduleSupport"]
+	path = vendor/SubmoduleSupport
+	url = https://github.com/rubystream/SubmoduleSupport.git
