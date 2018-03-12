@@ -2,6 +2,16 @@
 
 Demonstrate usage of submodules
 
+## Getting started
+
+```bash
+# install dependences
+$ npm install
+
+# run build command
+$ npm run build
+```
+
 ## Links to see
 
 - [ Git Tools - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)

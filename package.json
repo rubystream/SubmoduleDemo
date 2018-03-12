@@ -4,7 +4,8 @@
   "description": "git submodule demo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "cp ./vendor/SubmoduleSupport/quote_of_the_day.md ./docs/",
+    "postinstall": "git submodule update --init"
   },
   "repository": {
     "type": "git",
